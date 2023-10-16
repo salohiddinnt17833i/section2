@@ -1,0 +1,60 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.container {
+    width: 745px;
+    height: 303px;
+    background-color:#3437F1;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    display: flex;
+}
+.container .logo .Nahid
+{
+    width: 160px;
+    height: 160px;
+    margin-top: 35px;
+}
+.container .info
+{
+    margin-left: 42px;
+
+}
+.container h1
+{
+    font-size: 32px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+.container h2
+{
+    font-family: sans-serif;
+    opacity: 0.6;
+}
+.container button 
+{   
+    width: 67px;
+    font-size: 24px;
+    color: #3437F1;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container p
+{
+    font-family: sans-serif;
+    margin-top: 30px;
+    opacity: 0.6;
+}
+
+
